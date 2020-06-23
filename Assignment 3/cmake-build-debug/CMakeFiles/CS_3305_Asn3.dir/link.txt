@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/cc -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/CS_3305_Asn3.dir/main.c.o CMakeFiles/CS_3305_Asn3.dir/account.c.o  -o CS_3305_Asn3 
